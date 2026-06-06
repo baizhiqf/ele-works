@@ -1,0 +1,2 @@
+Model,seq_len,pred_len,batch,LR,top_k,d_ff,e_layers,n_heads,d_model,fc_drop,n1,n2,n_embed,kernel_size,lradj,MSE total,MAE total,MSE price,MAE price,MSE wind,MAE wind,MSE solar,MAE solar,MSE anc_serv,MAE anc_serv,MSE load,MAE load
+PowerMamba,240,24,64,0.001,5,2048,2,8,512,0.2,256,128,300,7,5,0.20903179,0.22816767,0.14484988,0.11122086,1.014975,0.7969574,0.98659366,0.76876265,0.027323121,0.03876698,0.16613,0.3011421
