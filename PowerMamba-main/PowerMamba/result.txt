@@ -1,3 +1,0 @@
-gridset__24_PowerMamba_GridSet_no_pred_ftMm_sl240_ll48_pl24_n1256_n2128_dr300_cin0.2_rin0_res1_dst1_dconv256_efact2  
-mse:0.20903179049491882, mae:0.22816766798496246, rse:0.3596552014350891
-
